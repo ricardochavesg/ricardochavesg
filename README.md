@@ -38,7 +38,7 @@ Plataforma SaaS multi-tenant para la gestión de órdenes en restaurantes y soda
 
 #### 🎮 **7dates** — *Videojuego Híbrido 2D (En Desarrollo Activo / Repositorio Privado)*
 Un título original que mezcla narrativa de novela visual con mecánicas de juego 2D únicas a lo largo de 7 niveles con mecánicas distintas.
-*   Sistema de diálogo personalizado construido desde cero con soporte de retratos y variantes de estado de ánimo mediante tags `[#mood=X]`.
+*   Sistema de diálogo personalizado  con soporte de retratos y variantes de estado de ánimo mediante tags `[#mood=X]`.
 *   Mecánicas de juego complejas (escudo sombrilla direccional, proyectiles enemigos usables como plataformas).
 *   Pipeline de arte pixel art a resolución nativa 640×360.
 *   *Stack:* Godot 4.6, GDScript, Dialogue Manager, Aseprite.
@@ -47,16 +47,8 @@ Un título original que mezcla narrativa de novela visual con mecánicas de jueg
 Una herramienta de automatización que extrae el código HTML de una plataforma web específica, analiza la estructura de datos y genera automáticamente el horario del equipo optimizado según el rol asignado. 
 *   Resuelve el problema del procesamiento manual de datos web no estructurados.
 *   Demuestra mi lógica en manipulación del DOM, parsing de datos y estructuración limpia de código ejecutable.
-*   *Stack:* Python / JavaScript (Elige el lenguaje en el que lo programaste), Git.
+*   *Stack:* Python
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardochavesg&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Ricardo" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardochavesg&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%"/>
-</p>
 
 ---
 
