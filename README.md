@@ -67,11 +67,6 @@ Fast-paced 2D arcade platformer built for a live Comic Con demo.
 
 - *Stack:* Godot 4.6 · GDScript
 
----
-
-### 📊 GitHub Stats
-
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardochavesg&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
