@@ -52,7 +52,7 @@ across 7 levels, each with a distinct mechanic.
 
 ---
 
-#### 📅 Weekly Schedule Manager — *[Open Source](your-link-here)*
+#### 📅 Weekly Schedule Manager — *[[Open Source](your-link-here](https://github.com/ricardochavesg/Programa-Mensual-Auto)*
 Web app that cut a 4-hour manual scheduling task down to 15 minutes.
 Visual editor with real-time conflict detection, workload balancing,
 and PNG export — backed by an automated HTML scraper/parser.
